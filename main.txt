@@ -5,8 +5,8 @@ using namespace std;
 int main()
 {
   cout << "Hola!";
-  cout << "";
-  cout << "";
+  cout << "Hello";
+  cout << "q tal?";
 
   return 0;
 }
