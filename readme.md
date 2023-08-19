@@ -1,5 +1,5 @@
 # Laboratorio 01 - HTML: About me
-## [Nombre Apellido] - [Carnet]
+### [Nombre Apellido] - [Carnet]
 
 #### Pregunta 1: 
 [Respuesta...]
